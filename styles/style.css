@@ -1,0 +1,20 @@
+h1 {
+    color: pink;
+}
+body {
+    background-color: cadetblue;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+button:hover {
+    color: cadetblue;
+    background-color: papayawhip;
+}
+img {
+    position: absolute;
+    right: 500px;
+    top: 100px;
+    width: 300px;
+    height: 300px;
+    
+}
